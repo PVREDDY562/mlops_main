@@ -1,0 +1,4 @@
+outs:
+- md5: a502a6af625e149e674873202147245e
+  size: 472
+  path: dvc_add_track
